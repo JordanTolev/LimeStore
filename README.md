@@ -1,7 +1,11 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
+
+
 //Everything is in one file, because i had trouble with the importing system in remix
 //Is There a template functionality in Solidity for Libraries
+
+
 library IterableMappingProduct {
 
    struct ProductItem{
